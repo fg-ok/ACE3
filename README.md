@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/acemod/ACE3/blob/master/extras/assets/logo/black/ACE3-Logo.jpg"
-         height="112">
+         height="112">KACKE!
 </p>
 <p align="center">
     <a href="https://github.com/acemod/ACE3/releases">
